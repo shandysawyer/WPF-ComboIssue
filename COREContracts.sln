@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "COREContracts", "COREContracts\COREContracts.csproj", "{867201CD-B61F-4E71-BF4C-623568385D72}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "COREContracts.DataAccess", "COREContracts.DataAccess\COREContracts.DataAccess.csproj", "{6ED11AC6-96BF-4FD5-807B-E3BAA22D64BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{867201CD-B61F-4E71-BF4C-623568385D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867201CD-B61F-4E71-BF4C-623568385D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867201CD-B61F-4E71-BF4C-623568385D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867201CD-B61F-4E71-BF4C-623568385D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED11AC6-96BF-4FD5-807B-E3BAA22D64BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED11AC6-96BF-4FD5-807B-E3BAA22D64BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED11AC6-96BF-4FD5-807B-E3BAA22D64BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED11AC6-96BF-4FD5-807B-E3BAA22D64BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66765949-791D-4E9B-A7F0-99B436522D03}
+	EndGlobalSection
+EndGlobal

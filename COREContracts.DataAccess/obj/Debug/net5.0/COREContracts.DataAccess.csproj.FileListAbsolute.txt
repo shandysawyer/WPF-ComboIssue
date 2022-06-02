@@ -1,0 +1,15 @@
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\bin\Debug\net5.0\COREContracts.DataAccess.deps.json
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\bin\Debug\net5.0\COREContracts.DataAccess.runtimeconfig.json
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\bin\Debug\net5.0\COREContracts.DataAccess.runtimeconfig.dev.json
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\bin\Debug\net5.0\COREContracts.DataAccess.dll
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\bin\Debug\net5.0\ref\COREContracts.DataAccess.dll
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\bin\Debug\net5.0\COREContracts.DataAccess.pdb
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\obj\Debug\net5.0\COREContracts.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\obj\Debug\net5.0\COREContracts.DataAccess.AssemblyInfoInputs.cache
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\obj\Debug\net5.0\COREContracts.DataAccess.AssemblyInfo.cs
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\obj\Debug\net5.0\COREContracts.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\obj\Debug\net5.0\COREContracts.DataAccess.dll
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\obj\Debug\net5.0\ref\COREContracts.DataAccess.dll
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\obj\Debug\net5.0\COREContracts.DataAccess.pdb
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\obj\Debug\net5.0\COREContracts.DataAccess.genruntimeconfig.cache
+C:\Users\734278\source\repos\COREContracts\COREContracts.DataAccess\obj\Debug\net5.0\COREContracts.DataAccess.csproj.AssemblyReference.cache
